@@ -1,4 +1,4 @@
-# InternshipTask
+# E-commerce-UI
   UI design Task
 
 ## ScreenShots
